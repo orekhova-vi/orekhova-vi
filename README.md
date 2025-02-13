@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="900" src="https://github.com/orekhova-vi/orekhova-vi/blob/main/IMG_9491.gif" />
+  <img height="400" width="800" src="https://github.com/orekhova-vi/orekhova-vi/blob/main/IMG_9491.gif" />
 </div>
 
 ###
