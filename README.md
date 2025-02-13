@@ -1,6 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viktoria Orekhova
-=========================================================================================================================================
-
 <br clear="both">
 
 <div align="center">
@@ -11,10 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h1 align="center">Привет👋 Меня зовут Виктория!</h1>
 
-###
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
