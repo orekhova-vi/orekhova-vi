@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/orekhova-vi/IMG_9488.gif"  />
+  <img height="300" width="600" src="[https://user-images.githubusercontent.com/orekhova-vi/IMG_9488.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0zOXMwMGt5NnJ6azh3OXRzM2k3d2I4eThma2N0OGU5ZmphdXZ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" />
 </div>
 
 ###
